@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2020 The National Disaster Logging System (NDLS) Project
+
+         This project is a property of Michael Oberkoh and Ruth Yankson
+         Unless giving explicit permission in writing, this project shouldn't be used whole or in part by a third person.
+
+    -->
+<resources>
+
+    <!-- NDLS translation for color red -->
+    <string name="ndls_color_red">weṭeṭṭi</string>
+
+    <!-- NDLS translation for color dusty yellow -->
+    <string name="ndls_color_dusty_yellow">ṭopiisә</string>
+
+    <!-- NDLS translation for color mustard yellow -->
+    <string name="ndls_color_mustard_yellow">chiwiiṭә</string>
+
+    <!-- NDLS translation for color green -->
+    <string name="ndls_color_green">chokokki</string>
+
+    <!-- NDLS translation for color brown -->
+    <string name="ndls_color_brown">ṭakaakki</string>
+
+    <!-- NDLS translation for color black -->
+    <string name="ndls_color_black">kululli</string>
+
+    <!-- NDLS translation for color gray -->
+    <string name="ndls_color_gray">ṭopoppi</string>
+
+    <!-- NDLS translation for color white -->
+    <string name="ndls_color_white">kelelli</string>
+
+    <!-- NDLS translation for father -->
+    <string name="ndls_family_father">әpә</string>
+
+    <!-- NDLS translation for mother -->
+    <string name="ndls_family_mother">әṭa</string>
+
+    <!-- NDLS translation for son -->
+    <string name="ndls_family_son">angsi</string>
+
+    <!-- NDLS translation for daughter -->
+    <string name="ndls_family_daughter">tune</string>
+
+    <!-- NDLS translation for older brother -->
+    <string name="ndls_family_older_brother">taachi</string>
+
+    <!-- NDLS translation for younger brother -->
+    <string name="ndls_family_younger_brother">chalitti</string>
+
+    <!-- NDLS translation for older sister -->
+    <string name="ndls_family_older_sister">teṭe</string>
+
+    <!-- NDLS translation for younger sister -->
+    <string name="ndls_family_younger_sister">kolliti</string>
+
+    <!-- NDLS translation for grandmother -->
+    <string name="ndls_family_grandmother">ama</string>
+
+    <!-- NDLS translation for grandfather -->
+    <string name="ndls_family_grandfather">paapa</string>
+
+    <!-- NDLS translation for number one -->
+    <string name="ndls_number_one">lutti</string>
+
+    <!-- NDLS translation for number two -->
+    <string name="ndls_number_two">otiiko</string>
+
+    <!-- NDLS translation for number three -->
+    <string name="ndls_number_three">tolookosu</string>
+
+    <!-- NDLS translation for number four -->
+    <string name="ndls_number_four">oyyisa</string>
+
+    <!-- NDLS translation for number five -->
+    <string name="ndls_number_five">massokka</string>
+
+    <!-- NDLS translation for number six -->
+    <string name="ndls_number_six">temmokka</string>
+
+    <!-- NDLS translation for number seven -->
+    <string name="ndls_number_seven">kenekaku</string>
+
+    <!-- NDLS translation for number eight -->
+    <string name="ndls_number_eight">kawinta</string>
+
+    <!-- NDLS translation for number nine -->
+    <string name="ndls_number_nine">wo\'e</string>
+
+    <!-- NDLS translation for number ten -->
+    <string name="ndls_number_ten">na\'aacha</string>
+
+    <!-- NDLS translation for phrase "Where are you going?" -->
+    <string name="ndls_phrase_where_are_you_going">minto wuksus</string>
+
+    <!-- NDLS translation for phrase "What is your name?" -->
+    <string name="ndls_phrase_what_is_your_name">tinnә oyaase\'nә</string>
+
+    <!-- NDLS translation for phrase "My name is..." -->
+    <string name="ndls_phrase_my_name_is">oyaaset...</string>
+
+    <!-- NDLS translation for phrase "How are you feeling?" -->
+    <string name="ndls_phrase_how_are_you_feeling">michәksәs?</string>
+
+    <!-- NDLS translation for phrase "I'm feeling good." -->
+    <string name="ndls_phrase_im_feeling_good">kuchi achit</string>
+
+    <!-- NDLS translation for phrase "Are you coming?" -->
+    <string name="ndls_phrase_are_you_coming">әәnәs\'aa?</string>
+
+    <!-- NDLS translation for phrase "Yes, I'm coming." -->
+    <string name="ndls_phrase_yes_im_coming">hәә\' әәnәm</string>
+
+    <!-- NDLS translation for phrase "I'm coming." -->
+    <string name="ndls_phrase_im_coming">әәnәm</string>
+
+    <!-- NDLS translation for phrase "Let's go." -->
+    <string name="ndls_phrase_lets_go">yoowutis</string>
+
+    <!-- NDLS translation for phrase "Come here." -->
+    <string name="ndls_phrase_come_here">әnni\'nem</string>
+</resources>

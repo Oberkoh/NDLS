@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2020 The National Disaster Logging System (NDLS) Project
+
+         This project is a property of Michael Oberkoh and Ruth Yankson
+         Unless giving explicit permission in writing, this project shouldn't be used whole or in part by a third person.
+
+    -->
+<ListView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/list"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:drawSelectorOnTop="true"/>
