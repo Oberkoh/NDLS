@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2020 The National Disaster Logging System (NDLS) Project
+
+         This project is a property of Michael Oberkoh and Ruth Yankson
+         Unless giving explicit permission in writing, this project shouldn't be used whole or in part by a third person.
+
+    -->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="@dimen/activity_margin"
+    tools:context=".EditProfileActivity">
+
+    <!-- Full name category -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <!-- Label -->
+        <TextView
+            android:text="@string/category_name"
+            style="@style/CategoryStyle" />
+
+            <!-- Name field -->
+            <EditText
+                android:id="@+id/edit_name"
+                android:hint="@string/hint_name"
+                android:layout_width="0dp"
+                android:layout_weight="2"
+                android:inputType="textCapWords"
+                style="@style/EditorFieldStyle" />
+    </LinearLayout>
+
+    <!-- Contact number category -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <!-- Label -->
+        <TextView
+            android:text="@string/category_contact"
+            style="@style/CategoryStyle" />
+
+        <!-- Name field -->
+        <EditText
+            android:id="@+id/edit_contact"
+            android:hint="@string/hint_contact"
+            android:layout_width="0dp"
+            android:layout_weight="2"
+            android:inputType="textCapWords"
+            style="@style/EditorFieldStyle" />
+    </LinearLayout>
+
+    <!-- Emergency category -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <!-- Label -->
+        <TextView
+            android:text="@string/category_emergency"
+            style="@style/CategoryStyle" />
+
+        <!-- Name field -->
+        <EditText
+            android:id="@+id/edit_emergency"
+            android:hint="@string/hint_emergency"
+            android:layout_width="0dp"
+            android:layout_weight="2"
+            android:inputType="textCapWords"
+            style="@style/EditorFieldStyle" />
+    </LinearLayout>
+
+</LinearLayout>

@@ -14,6 +14,49 @@
     <!-- Category name for the Profile of the user [CHAR LIMIT=20] -->
     <string name="category_profiles">Profile</string>
 
+    <!-- Label for full name information in the editor [CHAR LIMIT=30] -->
+    <string name="category_name">Name</string>
+
+    <!-- Label for personal contact information in the editor [CHAR LIMIT=30] -->
+    <string name="category_contact">Contact</string>
+
+    <!-- Label for Emergency Contact (ICE) information in the editor [CHAR LIMIT=30] -->
+    <string name="category_emergency">Emergency</string>
+
+    <!-- Text hint for the full name field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_name">Full Name</string>
+
+    <!-- Text hint for the contact field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_contact">Personal Number</string>
+
+    <!-- Text hint for the emergency contact field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_emergency">Contact Number for Emergency</string>
+
+    <!-- Label for Nature of the Disaster in the report disaster editor [CHAR LIMIT=30] -->
+    <string name="category_nature_of_disaster">Nature of Disaster</string>
+
+    <!-- Label for Location of the Disaster in the report disaster editor [CHAR LIMIT=30] -->
+    <string name="category_location">Location</string>
+
+    <!-- Text hint for Location of the Disaster in the report disaster editor [CHAR LIMIT=30] -->
+    <string name="hint_location">Digital Address</string>
+
+    <!-- Label for Additional Information of the Disaster in the report disaster editor [CHAR LIMIT=30] -->
+    <string name="category_additional_information">Additional Information</string>
+
+    <!-- Text hint for Additional Information of the Disaster in the report disaster editor [CHAR LIMIT=30] -->
+    <string name="hint_additional_information">Any other thing you want us to know</string>
+
+
+
+
+
+
+
+
+
+
+
     <!-- Vocabulary word for the color red [CHAR LIMIT=20] -->
     <string name="color_red">red</string>
 
