@@ -1,8 +1,16 @@
 NDLS App
 ===================================
 
-This app displays lists of vocabulary words for the user to learn the NDLS language.
-Used in a Udacity course in the Beginning Android Nanodegree.
+**NDLS: National Disaster Logging System**  
+An app that is connected to the a full management system  
+Users see and report incidence  
+The National Disaster Management Organization (NADMO) in Ghana  
+sees the message and they respond by
+- Accessing the incident
+- Rescuing the victims
+- Providing relief and support to victims
+- Manage the assets
+- Manage the internal affairs of their organization
 
 Pre-requisites
 --------------
@@ -29,7 +37,7 @@ submitting a pull request through GitHub. Please see CONTRIBUTING.md for more de
 License
 -------
 
-Copyright 2016 The Android Open Source Project, Inc.
+Copyright 2020 The Android Open Source Project, Inc.
 
 Licensed to the Apache Software Foundation (ASF) under one or more contributor
 license agreements.  See the NOTICE file distributed with this work for
