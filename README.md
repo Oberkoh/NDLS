@@ -30,9 +30,14 @@ Support
 
 - Google+ Community: https://plus.google.com/communities/105153134372062985968
 - Stack Overflow: http://stackoverflow.com/questions/tagged/android
+- Udacity Nanodegree: https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803
+- Udacity free: https://www.udacity.com/course/android-basics-user-interface--ud834
+
+You may use the free courses instead if you can't afford the nanodegree
+The link to the free course is just the beginning module, you can find the other free modules and learn
 
 Patches are encouraged, and may be submitted by forking this project and
-submitting a pull request through GitHub. Please see CONTRIBUTING.md for more details.
+submitting a pull request through GitHub.
 
 License
 -------
