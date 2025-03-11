@@ -6,7 +6,7 @@ An app that is connected to the a full management system
 Users see and report incidence  
 The National Disaster Management Organization (NADMO) in Ghana  
 sees the message and they respond by
-- Accessing the incident
+- Assessing the incident
 - Rescuing the victims
 - Providing relief and support to victims
 - Manage the assets
